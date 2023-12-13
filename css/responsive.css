@@ -1,0 +1,405 @@
+
+@media(max-width:1440px){
+    .navbar-area img {
+        width: 5%;
+    }
+    .header-area h3 {
+        font-size: 38px;
+    }
+    .header-area h2 {
+        font-size: 44px;
+        line-height: 50px;
+    }
+    .header-area p{
+        font-size: 14px;
+    }
+    .weather-area .weater-box-2 .picture-box {
+        padding: 0px;
+    }
+    .weather-area-slider {
+        display: none;
+        position: absolute;
+        top: 35%;
+        right: 13%;
+    }
+}
+@media(max-width:1400px){
+    .about-area .weater-box-3 .about-img-2 {
+        left: 0px;
+    }
+    .form-area input {
+        padding-right: 40px;
+    }
+}
+@media(max-width:1200px){
+    .footer-area i {
+        margin-left: 5px;
+    }
+    .weather-area-slider {
+        top: 27%;
+        right: 1%;
+    }
+}
+@media(max-width:1024px){
+    .navbar-area img {
+       max-width: 100%;
+        margin-left: 0px;
+        display: -webkit-inline-box;
+    }
+    .footer-box-3 {
+        margin-left: 0px;
+    }
+    .navbar-area img {
+        width: 5%;
+    }       
+}
+
+
+@media(max-width:992px){
+ 
+    h2{
+        font-size: 30px!important;
+    }
+    h3{
+        font-size: 25px!important;
+    }
+    
+    .footer-area h2 {
+        display: block;
+    }
+    .footer-box-3 {
+        display: block;
+        margin-top: 0px;
+        text-align: center;
+    }
+    .footer-box-2 {
+        display: block;
+    }
+    .foooter-middle-box {
+        text-align: center;
+        display: block;
+    }
+    .footer-box-4 {
+        text-align: center;
+    }
+    .about-area .weater-box-3 .about-img-1 {
+        width: 270px;
+        height: 320px;
+       
+    }
+    .about-area .weater-box-3 .about-img-2 {
+        width: 270px;
+        height: 320px;
+      
+    }
+    .about-area .weater-box-3 .fa-circle-play {
+        top: 263px;
+        left: 34%;
+    }
+    .header-area h2 {
+        line-height: 40px;
+    }
+    .about-area .weater-box-4 .clients {
+        padding: 0px;
+    }
+    .form-area .head-form .clients {
+        padding: 0px;
+    }
+    .form-area .form-box .customer-detail {
+        margin-left: 18px;
+    }
+    .form-area input {
+        padding-right: 0px;
+       
+    }
+    .gallery-area .insta-box {
+        bottom: -74px;
+    }
+    .gallery-area .gallery-menu .insta-pic {
+        width: 120px;
+        height: 120px;
+    }
+    .weather-area .weater-box-2 .pic {
+        width: 120px;
+        height: 120px;
+       
+    }
+    .slider-area .slider-box .owl-prev span {
+        top: 33%;
+        left: -12px;
+        font-size: 25px;
+        padding: 0px 7px;
+        padding-bottom: 5px;
+    }
+    .slider-area .slider-box .owl-next span {
+        top: 33%;
+        right: -11px;
+        font-size: 25px;
+        padding: 0px 7px;
+        padding-bottom: 5px;
+    }
+    .form-area .form-box h5 {
+     
+        margin-top: 10px;
+    }#message-box {
+        padding-bottom: 40px;
+    }
+    .navbar-area img {
+        width: 7%;
+    }
+    .box{
+        display: inline-block;
+        margin-bottom: 10px;
+    }
+    .box i {
+        position: absolute;
+        top: 60%;
+        transform: translate(-50%,-50%);
+        font-size: 20px;
+        color: #FF6F28;
+        transition: .2s;
+        
+    }
+    a.nav-link.nav-btn-2 {
+        display: inline-block;
+    }
+    .goool {
+        padding:0px;
+    }
+    .slider {
+        width: 475px;
+    }
+    .weather-area-slider {
+  
+        top: 31%;
+        right: 1%;
+    }
+  
+}
+@media(max-width:768px){
+    .weather-area .weater-box-2 {
+        margin-top: 30px;
+    }
+    .header-box {
+        justify-content: center;
+    }
+    .about-area .weater-box-3 {
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .about-area .weater-box-3 .about-img-1 {
+        position: static;
+        margin-left: 30px;
+    }
+    .about-area .weater-box-3 .about-img-2 {
+        position: absolute;
+        top: 75px;
+    }
+    .about-area .weater-box-3 .fa-circle-play {
+        top: 210px;
+        left: 23%;
+    }
+    .about-area .weater-box-4 .about-detail {
+        margin-top: 50px;
+    }
+    .info {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    } 
+    .review-area .img-box {
+        width: 148px;
+        height: 148px;
+        border: 1px solid lightgrey;
+        padding: 10px;
+        border-radius: 50%;
+            margin-top: 0px;
+    }  
+    .review-area .info h6 {
+        color: #FF6F28;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: bold;
+        font-style: normal;
+        margin-left: 10px;
+        margin-top: 25px;
+    }
+    .review-area .review-box p {
+        font-size: 14px;
+        
+    }
+    .review-area .buttons {
+
+        margin-right: 40px;
+        margin-top: 10px;
+    }
+    .review-area .review-box button.carousel-control-prev {
+        color: black;
+        background: #FF6F28;
+        border-radius: 7px;
+        margin: 5px;
+    }
+    .review-area .review-box button.carousel-control-next {
+        color: black;
+        background: #FF6F28;
+        border-radius: 7px;
+        margin: 5px;
+    }
+    .customer-detail {
+        display: inline-block;
+    } 
+    .form-area input {
+        padding-right: 150px;
+    }
+    #message-box {
+        padding-bottom: 60px;
+    }  
+    .form-box {
+        margin-top: 50px;
+    }
+    .weater-box-4 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .about-area {
+        padding-bottom: 100px;
+    }
+    .form-area {
+        margin-top: 80px;
+    }
+    .gallery-area .gallery-menu .insta-pic {
+        margin-right: 10px;
+    }
+    .navbar-area img {
+        width: 7%;
+    
+    }
+    .weather-area-slider .col-sm-4{
+     display: none;
+    }
+
+
+    .slider .gallery-thumbs-1 {
+        height: 100px;
+        box-sizing: border-box;
+        padding: 10px 0;
+    }
+    .weather-area-slider {
+        top: 78%;
+        right: 17%;
+    }
+    .slider {
+        width: 400px;
+    }.header-box {
+        height: 60vh;
+    }.gallery-area, .goool {
+        padding: 10px;
+    }
+  
+}
+@media(max-width:576px){
+    h2{
+        font-size: 25px!important;
+    }
+    h3{
+        font-size: 20px!important;
+      
+    }
+    .header-area h2 {
+        line-height: 30px;
+    }
+    .header-area p {
+        font-size: 12px;
+    }
+    .form-area input {
+        padding-right: 40px;
+    }
+    .weather-area {
+        padding-top: 50px;
+    }
+    .weater-box-2 {
+        margin-top: 50px;
+    }
+    .review-area .info {
+        margin-top: 20px;
+    }
+    .carousel-control-next, .carousel-control-next {
+        width: 8%;
+    }
+    .carousel-control-next, .carousel-control-prev {
+        width: 8%;
+    }
+    #pic-4{
+        display: none;
+    }
+    .gallery-area .gallery-menu .insta-pic {
+        margin-right: 0px;
+        width: 100px;
+        height: 101px;
+    }
+    .navbar-area img {
+        width: 7%;
+    }
+    .footer-box-1-detail {
+        padding-left: 0px;
+        text-align: center;
+    }
+    .about-area .weater-box-3 .fa-circle-play {
+      
+        left: 21%;
+    }
+    .weather-area-slider {
+ 
+        top: 78%;
+        right: 18%;
+    }
+    .slider{
+        width: 300px;
+    }
+
+}
+@media(max-width:425px){
+
+    .about-area .weater-box-3 .fa-circle-play {
+        left: 28%;
+    }
+    .box:hover input {
+        width: 250px;
+
+    }
+    .weather-area-slider {
+        top: 78%;
+        right: 12%;
+    }                                                       
+}
+@media(max-width:375px){
+
+    .about-area .weater-box-3 .fa-circle-play {
+        left: 32%;
+    }
+    .weather-area-slider {
+        top: 78%;
+        right: 6%;
+    }   
+}   
+@media(max-width:335px){
+
+    .about-area .weater-box-3 .fa-circle-play {
+        left: 38%;
+    }
+
+    .weather-area-slider {
+        top: 78%;
+        right: 3%;
+    }
+}   
+@media(max-width:320px){
+
+    .about-area .weater-box-3 .fa-circle-play {
+        left: 38%;
+    }
+   
+}   
